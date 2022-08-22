@@ -4,7 +4,7 @@
 // JavaScript Object Notation
 
 // 1. Object to JSON
-// stringfy(obj)
+// stringify(obj)
 let json = JSON.stringify(true);
 console.log(json);
 
