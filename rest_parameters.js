@@ -161,6 +161,8 @@ let lang = ['Korean', 'English'];
 //   user.skills.push(item);
 // });
 
+// 위 복잡한 함수를 아래와 같이 변형 가능
+
 user = {
   ...user,
   ...info,
