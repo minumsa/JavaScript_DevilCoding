@@ -1,4 +1,4 @@
-/* Computed Property */
+/* 계산된 프로퍼티(Computed Property) */
 // a라는 변수와 user라는 객체
 
 let a = 'age';
